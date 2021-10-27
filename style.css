@@ -1,8 +1,8 @@
 @import url("http://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Poppins:300,400,500,700");
 
 body {
-  background-image: url('http://ureal.fr.nf/images/ureal/uReaL_wallpaper_2018_03_02.png');
-  color: #575F7D;
+  background-image: url('http://ureal.fr.nf/images/ureal/ureal_forum_wallpaper.jpg');
+  color: #f4f5fc;
   font-family: 'Poppins', serif;
   font-size: 17px;
   font-weight: lighter;
@@ -11,6 +11,7 @@ body {
 h1, h2, h3 {
   font-family: 'Open Sans', sans-serif;
   font-weight: 600; /* if you want the light version */
+  color: #d4d9fa;
 }
 
 h1 {
@@ -29,23 +30,28 @@ h3 {
 
 a {
   text-decoration: none;
-  color: #5E6B7C;
+  color: #460909;
 }
 
 a:hover {
-  color: #f51909 ;
-  font-weight: bold;
+  font-weight: 700;
+  color: #88ff00 ;
 }
 
 i {
+  color: #ffffff ;
   font-size: 35px;
+}
+
+i:hover {
+  color: #312b2b ;
 }
 
 .profile-pic {
   height: 200px;
   width: 200px;
   border-radius: 50%;
-  box-shadow: 2px #5E6B7C;
+  box-shadow: 2px #e98989;
   margin-top: 10px;
   margin-bottom: 10px;
 }
@@ -60,18 +66,18 @@ i {
 }
 
 .card {
-  background-color: white;
+  background-color: #9e0909;
   padding: 40px;
   box-shadow: 0px 10px 30px rgb(0 0 0 / 10%);
   border-radius: 6px;
-  border: 1px solid lightgrey;
+  border: 1px solid #9e0909;
   margin: 20px 0px;
   text-align: center;
   padding-top: 20px;
 }
 
 .btn-blue {
-  background-color: #6B72E1;
+  background-color: #da2727;
   color: white;
   padding: 10px 50px;
   border: 1px;
