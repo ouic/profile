@@ -1,8 +1,7 @@
 @import url("http://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Poppins:300,400,500,700");
 
 body {
-  background: #F7F9FC;
-  background-image: url('http://ureal.fr.nf/images/ureal/ureal_forum_wallpaper.jpg');
+  background-image: url('images/ureal_forum_wallpaper.jpg');
   color: #575F7D;
   font-family: 'Poppins', serif;
   font-size: 17px;
